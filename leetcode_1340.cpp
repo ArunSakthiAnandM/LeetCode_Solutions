@@ -1,4 +1,7 @@
-//ans[l] to store the max jumps from 
+//ans[l] to store the max jumps from l th step
+//DP to calculate maximum
+//Time Complexity -> O(n)
+//Memory Complexity -> O(n)
 
 class Solution {
 public:
